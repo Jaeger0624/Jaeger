@@ -13,14 +13,11 @@
 <h2>🌐 联系方式 | Contact Me 🌐</h2>
 
 <p align="center">
-  <a href="https://qm.qq.com/q/Y9qMERwx4Q">
-    <img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&amp;logo=QQ&amp;logoColor=white" alt="QQ" />
+  <a href="https://wpa.qq.com/msgrd?v=3&amp;uin=3233762377&amp;site=qq&amp;menu=yes">
+    <img src="https://img.shields.io/badge/QQ-3233762377-EB1923?style=for-the-badge&amp;logo=QQ&amp;logoColor=white" alt="QQ 3233762377" />
   </a>
-  <a href="https://space.bilibili.com/104644407">
-    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&amp;logo=bilibili&amp;logoColor=white" alt="Bilibili" />
-  </a>
-  <a href="mailto:huangqongtong%40gmail.com">
-    <img src="https://img.shields.io/badge/-huangqongtong%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
+  <a href="https://space.bilibili.com/324013149">
+    <img src="https://img.shields.io/badge/Bilibili-324013149-00A1D6?style=for-the-badge&amp;logo=bilibili&amp;logoColor=white" alt="Bilibili 324013149" />
   </a>
 </p>
 
