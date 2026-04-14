@@ -1,102 +1,71 @@
 <div align="center">
-
-<!-- =========================================================
-     1) GAME START SCREEN
-     Pixel-only / dark retro / inline SVG UI
-========================================================== -->
-
-<img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/rogue-header.svg" width="960" alt="Game Start Screen" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=欢迎来到Jaeger的仓库&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jaeger0624&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+![](https://komarev.com/ghpvc/?username=Jaeger0624&color=orange)
+## 🌐 联系方式 | Contact Me 🌐
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      alt="Typing SVG"
-      src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2200&pause=900&color=F2C14E&background=0B0D10&center=true&vCenter=true&width=960&height=42&lines=PLAYER%3A+TIANHAO+%28DEVELOPER%2FDESIGNER%29;CURRENT+RUN%3A+intern_hunting_2024.exe;BUFFS%3A+UNITY%2BGODOT%2C+RUST%2C+DBG_MECHANICS;AI_DRIVEN_WORKFLOW+%3D+TRUE"
-    />
+  <a href="https://qm.qq.com/q/Y9qMERwx4Q">
+    <img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=QQ&logoColor=white" alt="QQ" />
+  </a>
+  <a href="https://space.bilibili.com/104644407">
+    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
+  </a>
+  <a href="mailto:huangqongtong%40gmail.com">
+    <img src="https://img.shields.io/badge/-huangqongtong%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-<!-- =========================================================
-     2) PLAYER ATTRIBUTES
-========================================================== -->
+---
 
-<img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/player-attributes-title.svg" width="960" alt="PLAYER ATTRIBUTES" />
-
+## 技术栈 | Tech Stack
 <p align="center">
-  <img
-    height="165"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Jaeger0624&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0B0D10&title_color=F2C14E&text_color=B8C0CC&icon_color=3DA9FF"
-  />
-  <img
-    height="165"
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeger0624&layout=compact&hide_border=true&bg_color=0B0D10&title_color=F2C14E&text_color=B8C0CC&langs_count=8"
-  />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML-3366CC?style=for-the-badge&logo=htmx&logoColor=white" alt="HTML" />
 </p>
 
+## 个人介绍 | About Me
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/pixel-star.svg" width="18" height="18" alt="Pixel Star" />
-  <span> STAR: Achievements / Highlights</span>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/pixel-heart.svg" width="18" height="18" alt="Pixel Heart" />
-  <span> HP(Commits): Keep shipping</span>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/pixel-sword.svg" width="18" height="18" alt="Pixel Sword" />
-  <span> PRs(Sword): Battle-tested merges</span>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=400&pause=1000&center=true&width=435&lines=%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85+%7C+GameDeveloper;%E6%B7%B1%E5%9C%B3%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6+%7C+SZTU+Student" alt="Typing SVG" /></a>
 </p>
 
-<!-- =========================================================
-     3) THE SKILL DECK (PURE SVG - 5 CARDS)
-========================================================== -->
-
-<img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/skill-deck.svg" width="960" alt="THE SKILL DECK" />
-
-<!-- =========================================================
-     4) ACTIVE ENCOUNTERS (TABLE LAYOUT)
-========================================================== -->
-
-<img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/active-encounters-title.svg" width="960" alt="ACTIVE ENCOUNTERS" />
-
-<table align="center" border="0" cellspacing="0" cellpadding="10" width="960">
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/encounter-left-title.svg" width="100%" alt="DBG Rogue-like Project" />
-      <br/>
-      <img src="GIF占位符" width="100%" alt="DBG Rogue-like Project GIF Placeholder" />
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/boss-info.svg" width="100%" alt="Boss Info" />
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 12px; margin: 10px;">
+        <h3>🎮 游戏开发</h3>
+        <p>经常参加Game Jam，《噬莱姆计划》开发者</p>
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/encounter-right-title.svg" width="100%" alt="Node-based Social Auction Game" />
-      <br/>
-      <img src="GIF占位符" width="100%" alt="Node-based Social Auction Screenshot Placeholder" />
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/encounter-info.svg" width="100%" alt="Encounter Info" />
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 12px; margin: 10px;">
+        <h3>💻 全栈开发</h3>
+        <p>喜欢探索不同领域的开发，做一些有趣的小玩具</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 12px; margin: 10px;">
+        <h3>🤝 开源贡献</h3>
+        <p>积极参与开源项目，分享代码，共同进步</p>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 15px; border-radius: 12px; margin: 10px;">
+        <h3>💬 技术交流</h3>
+        <p>欢迎扩列，交流技术，碰撞创意的火花！</p>
+      </div>
     </td>
   </tr>
 </table>
 
-<!-- =========================================================
-     5) SAVE POINT & CREDITS
-========================================================== -->
+---
 
-<img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/save-point-title.svg" width="960" alt="SAVE POINT & CREDITS" />
-
-<img src="https://raw.githubusercontent.com/Jaeger0624/Jaeger/main/assets/save-point-panel.svg" width="960" alt="Save Point Panel" />
-
-<p align="center">
-  <a href="https://github.com/Jaeger0624">GitHub</a>
-  &nbsp;|&nbsp;
-  <a href="mailto:you@example.com">Email(占位)</a>
-  &nbsp;|&nbsp;
-  <a href="https://x.com/your_handle">X(占位)</a>
-  &nbsp;|&nbsp;
-  <a href="https://space.bilibili.com/your_id">Bilibili(占位)</a>
-  &nbsp;|&nbsp;
-  <a href="https://yourname.itch.io/">itch.io(占位)</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.artstation.com/yourname">ArtStation(占位)</a>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
