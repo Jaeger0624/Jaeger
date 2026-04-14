@@ -1,0 +1,7 @@
+<svg width="460" height="112" viewBox="0 0 460 112" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="Boss Info">
+  <rect x="0" y="0" width="460" height="112" fill="#0B0D10" stroke="#20242C" stroke-width="2"/>
+  <text x="12" y="26" fill="#FF3B3B" font-size="12" font-family="'Press Start 2P', 'Courier New', monospace">[BOSS: Timeline Combat System]</text>
+  <text x="12" y="52" fill="#FF3B3B" font-size="12" font-family="'Press Start 2P', 'Courier New', monospace">HP: 8000</text>
+  <text x="12" y="78" fill="#F2C14E" font-size="12" font-family="'Press Start 2P', 'Courier New', monospace">ATTACK: Design</text>
+  <text x="12" y="104" fill="#3CFF6B" font-size="12" font-family="'Press Start 2P', 'Courier New', monospace">MECHANIC: Deck-Building</text>
+</svg>

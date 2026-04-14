@@ -1,0 +1,5 @@
+<svg width="460" height="86" viewBox="0 0 460 86" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="Encounter Info">
+  <rect x="0" y="0" width="460" height="86" fill="#0B0D10" stroke="#20242C" stroke-width="2"/>
+  <text x="12" y="30" fill="#3DA9FF" font-size="12" font-family="'Press Start 2P', 'Courier New', monospace">[ENCOUNTER: Abstract Interaction]</text>
+  <text x="12" y="64" fill="#3CFF6B" font-size="12" font-family="'Press Start 2P', 'Courier New', monospace">MECHANIC: Node Trading</text>
+</svg>

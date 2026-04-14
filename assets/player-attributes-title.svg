@@ -1,0 +1,9 @@
+<svg width="960" height="54" viewBox="0 0 960 54" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PLAYER ATTRIBUTES" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="960" height="54" fill="#0B0D10"/>
+  <rect x="10" y="10" width="940" height="34" fill="#0B0D10" stroke="#F2C14E" stroke-width="4"/>
+  <rect x="18" y="18" width="924" height="18" fill="#0B0D10" stroke="#20242C" stroke-width="2"/>
+  <rect x="22" y="18" width="12" height="18" fill="#FF3B3B"/>
+  <rect x="38" y="18" width="12" height="18" fill="#3CFF6B"/>
+  <rect x="54" y="18" width="12" height="18" fill="#3DA9FF"/>
+  <text x="86" y="33" fill="#F2C14E" font-size="14" font-family="'Press Start 2P', 'Courier New', monospace">PLAYER ATTRIBUTES</text>
+</svg>

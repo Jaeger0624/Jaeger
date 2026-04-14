@@ -1,0 +1,13 @@
+<svg width="960" height="120" viewBox="0 0 960 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Save Point Links" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="960" height="120" fill="#0B0D10"/>
+  <rect x="14" y="14" width="932" height="92" fill="#0B0D10" stroke="#F2C14E" stroke-width="6"/>
+  <rect x="24" y="24" width="912" height="72" fill="#0B0D10" stroke="#20242C" stroke-width="2"/>
+
+  <!-- little save crystal -->
+  <rect x="40" y="40" width="24" height="24" fill="#3DA9FF"/>
+  <rect x="46" y="34" width="12" height="12" fill="#3CFF6B"/>
+  <rect x="46" y="64" width="12" height="12" fill="#FF3B3B"/>
+
+  <text x="86" y="56" fill="#B8C0CC" font-size="12" font-family="'Press Start 2P', 'Courier New', monospace">LINKS:</text>
+  <text x="86" y="78" fill="#F2C14E" font-size="12" font-family="'Press Start 2P', 'Courier New', monospace">GITHUB / EMAIL / X / BILIBILI / ITCH / ARTSTATION</text>
+</svg>
